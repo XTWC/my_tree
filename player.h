@@ -37,5 +37,6 @@ public:
 	void add_hero(player& p, hero& h);
 	void add_equipment(equipment e);
 	bool alive_ornot(player &p);
+	//
 };
 #endif
