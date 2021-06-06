@@ -37,7 +37,7 @@ bool player::alive_ornot(player &p)
 	}
 	return false;
 }
-//
+
 void player::add_hero(player &p,hero& h)
 {
 	
